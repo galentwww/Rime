@@ -1,0 +1,8 @@
+# Rime user dictionary
+#@/db_name	easy_en
+#@/db_type	userdb
+#@/rime_version	1.7.3
+#@/tick	2
+#@/user_id	3fb26141-89b7-4ba5-9295-61bd46cf24e3
+github 	GitHub	c=1 d=1 t=2
+tab 	tab	c=1 d=1 t=2

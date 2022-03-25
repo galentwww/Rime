@@ -1,0 +1,20 @@
+# Rime dictionary
+# encoding: utf-8
+# 个人中文词库-自定义
+
+---
+name: galentwww_en.daily
+version: "2022.3.25"
+sort: by_weight
+use_preset_vocabulary: false
+...
+
+Apex Legends	apex	1
+yyds	yyds	1
+WTF	wtf	1
+u1s1	yysy	1
+smjb	smjb	1
+U1S1,qs	yysyqs	1
+Github	github	1
+www.github.com	github	2
+www.github.com/galentwww	mygit	1

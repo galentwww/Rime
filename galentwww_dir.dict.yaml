@@ -1,0 +1,14 @@
+# Rime dictionary
+# encoding: utf-8
+# 个人中文词库-自定义
+
+---
+name: galentwww_en.daily
+version: "2022.3.25"
+sort: by_weight
+use_preset_vocabulary: false
+...
+
+/Users/galentwww/Documents/Project	gitdir	1
+/Users/galentwww/Documents/githubFiles	gitdir	2
+/Users/galentwww/Library/Rime	rimeconfig	1

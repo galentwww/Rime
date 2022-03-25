@@ -1,0 +1,147 @@
+# Rime user dictionary
+#@/db_name	luna_pinyin
+#@/db_type	userdb
+#@/rime_version	1.7.3
+#@/tick	112
+#@/user_id	3fb26141-89b7-4ba5-9295-61bd46cf24e3
+a 	啊	c=3 d=2.27104 t=112
+bao gao 	報告	c=0 d=0.1 t=83
+bian ji qi 	編輯器	c=0 d=0.1 t=67
+biao shi gan xie 	表示感謝	c=0 d=0.1 t=102
+bu hui le 	不會了	c=0 d=0.0904837 t=112
+bu zhi dao 	不知道	c=2 d=1.66725 t=112
+chu shi 	出示	c=0 d=0.1 t=81
+ci ku 	詞庫	c=3 d=2.17912 t=112
+dai ma 	代碼	c=0 d=0.1 t=67
+dai ma bian ji qi 	代碼編輯器	c=1 d=1 t=68
+de 	得	c=2 d=1.43155 t=112
+de 	的	c=5 d=4.48029 t=108
+de shi hou 	的時候	c=0 d=0.1 t=58
+deng 	等	c=1 d=1 t=99
+dian 	點	c=1 d=0.985112 t=112
+dian nao 	電腦	c=1 d=0.831104 t=112
+dong bei 	東北	c=0 d=0.1 t=108
+dong bei hua 	東北話	c=1 d=1 t=109
+dong le 	懂了	c=0 d=0.0873716 t=112
+dong xi 	東西	c=1 d=1 t=54
+fan yi 	翻譯	c=1 d=1 t=78
+fen ci 	分詞	c=0 d=0.0869358 t=112
+fu hao 	符號	c=1 d=1 t=77
+gan jue 	感覺	c=1 d=0.88692 t=112
+ge 	個	c=0 d=0.1 t=56
+ge ren 	個人	c=0 d=0.0891366 t=112
+ge ren ci ku 	個人詞庫	c=1 d=0.895834 t=112
+ge shi 	格式	c=1 d=1 t=75
+gei wo 	給我	c=1 d=0.923116 t=112
+gei zi ji 	給自己	c=1 d=0.955997 t=112
+gitdir 	/Users/galentwww/Document/Project	c=1 d=1 t=112
+gitdir 	/Users/galentwww/Document/githubFiles	c=1 d=1 t=111
+gong neng 	功能	c=1 d=0.937067 t=112
+gui 	貴	c=1 d=1 t=51
+hao 	好	c=0 d=0.1 t=64
+hao ji quan 	好幾圈	c=1 d=1 t=65
+he suan 	核酸	c=0 d=0.1 t=83
+he suan bao gao 	核酸報告	c=1 d=1 t=84
+hen cha 	很差	c=0 d=0.0995012 t=112
+hua 	話	c=0 d=0.1 t=108
+huan ge 	換個	c=1 d=0.83527 t=112
+ji quan 	幾圈	c=0 d=0.1 t=64
+ji yi 	計議	c=0 d=0.0995012 t=112
+ji yi xiao guo hen cha 	計議小郭很差	c=1 d=1 t=112
+jian 	鍵	c=0 d=0.0869358 t=112
+jian cheng 	簡稱	c=0 d=0.1 t=96
+jian fen ci 	鍵分詞	c=1 d=0.873716 t=112
+jiao 	叫	c=0 d=0.0865022 t=112
+jin zhan 	近戰	c=0 d=0.1 t=80
+jin zhan qian 	近戰前	c=1 d=1 t=81
+jiu 	就	c=0 d=0.0909373 t=112
+jiu li pu 	就離譜	c=1 d=0.913931 t=112
+ka 	卡	c=0 d=0.0852144 t=112
+lai 	來	c=2 d=1.5063 t=112
+lai dian 	來電	c=1 d=0.97531 t=112
+lai yuan yu 	來源於	c=1 d=1 t=102
+le 	了	c=2 d=1.82283 t=106
+li pu 	離譜	c=1 d=1.04135 t=112
+lian xiang 	聯想	c=0 d=0.0927743 t=112
+ma le 	馬了	c=1 d=0.946485 t=112
+mai bu qi 	買不起	c=0 d=0.1 t=54
+mai de 	買的	c=1 d=1 t=60
+mei shen me 	沒什麼	c=1 d=1 t=94
+men 	們	c=1 d=1 t=80
+mygit 	www.github.com/galentwww	c=1 d=1 t=86
+ne 	呢	c=0 d=0.1 t=69
+ni 	你	c=1 d=1 t=73
+pei zhi wen jian 	配置文件	c=3 d=2.88362 t=101
+qi ta 	其它	c=1 d=1 t=100
+qian 	前	c=0 d=0.1 t=80
+qing 	請	c=0 d=0.1 t=81
+qing chu shi 	請出示	c=1 d=1 t=82
+ren ma le 	人馬了	c=1 d=0.941765 t=112
+ri chang 	日常	c=0 d=0.1 t=87
+shan chu 	刪除	c=1 d=0.794534 t=112
+shen me 	什麼	c=0 d=0.0865022 t=112
+shen me jiao 	什麼叫	c=1 d=0.869358 t=112
+shi 	屎	c=0 d=0.0927743 t=112
+shi yi yang de lian xiang 	屎一樣的聯想	c=1 d=0.932394 t=112
+shi yong 	使用	c=1 d=1 t=89
+shu ru fa 	輸入法	c=1 d=0.839457 t=112
+sou gou 	搜狗	c=1 d=0.798516 t=112
+te bie 	特別	c=0 d=0.0852144 t=112
+te bie ka 	特別卡	c=1 d=0.856415 t=112
+wan 	完	c=1 d=1 t=64
+wan yi 	萬一	c=0 d=0.1 t=69
+wan yi ne 	萬一呢	c=1 d=1 t=70
+wo 	我	c=1 d=0.843665 t=112
+wo ge ren 	我個人	c=0 d=0.1 t=87
+wo ge ren ri chang 	我個人日常	c=1 d=1 t=88
+wo jiu shi 	我就是	c=0 d=0.1 t=56
+wo jiu shi ge 	我就是個	c=1 d=1 t=57
+wo men 	我們	c=1 d=0.826959 t=112
+wo shi 	我是	c=1 d=1.09802 t=58
+wo shi mai bu qi 	我是買不起	c=1 d=1 t=55
+xi wen 	西文	c=1 d=1 t=56
+xian shi 	顯示	c=1 d=1 t=76
+xian zai 	先在	c=1 d=0.814647 t=112
+xian zai 	現在	c=1 d=0.818731 t=112
+xiang qi 	向其	c=0 d=0.1 t=102
+xiang qi biao shi gan xie 	向其表示感謝	c=1 d=1 t=103
+xiao guo 	小郭	c=0 d=0.0995012 t=112
+xiao shi 	小時	c=1 d=1 t=83
+xin tai 	心態	c=1 d=1 t=61
+yi jing 	已經	c=1 d=1 t=62
+yi xie 	一些	c=1 d=1 t=93
+yi yang de 	一樣的	c=0 d=0.0927743 t=112
+ying gai 	應該	c=1 d=0.891366 t=112
+ying wen 	英文	c=0 d=0.1 t=96
+ying wen jian cheng 	英文簡稱	c=1 d=1 t=97
+yong 	用	c=1 d=1 t=95
+yong yu 	用語	c=1 d=1 t=110
+you de mei de 	有的沒的	c=0 d=0.1 t=68
+you dian 	有點	c=0 d=0.0873716 t=112
+you dian dong le 	有點懂了	c=1 d=0.878095 t=112
+yuan lai shi zhe yang 	原來是這樣	c=1 d=0.882497 t=112
+yuan sheng shu ru fa 	原生輸入法	c=1 d=0.847894 t=112
+za hui shi 	咋回事	c=1 d=0.865022 t=112
+zen me yang 	怎麼樣	c=1 d=0.822835 t=112
+zeng jia 	增加	c=1 d=1 t=105
+zeng jia le 	增加了	c=1 d=1 t=92
+zha 	炸	c=1 d=1 t=63
+zhe 	這	c=1 d=1 t=112
+zhe me 	這麼	c=1 d=1 t=50
+zhen 	真	c=1 d=1 t=71
+zhen zheng de 	真正的	c=1 d=1 t=85
+zheng 	整	c=0 d=0.0904837 t=112
+zheng bu hui le 	整不會了	c=3 d=2.75563 t=112
+zheng dian 	整點	c=2 d=1.86562 t=112
+zheng dian you de mei de 	整點有的沒的	c=1 d=1 t=69
+zhong wen 	中文	c=1 d=0.99005 t=112
+zhong yao de shi 	重要的是	c=0 d=0.1 t=103
+zhu ti 	主題	c=1 d=1 t=98
+zhun que xing 	準確性	c=1 d=0.810584 t=112
+zi ding yi 	自定義	c=1 d=0.900325 t=112
+zi ji de 	自己的	c=1 d=0.965605 t=112
+zong shi 	總是	c=1 d=0.852144 t=112
+zui gui 	最貴	c=0 d=0.1 t=58
+zui gui de shi hou 	最貴的時候	c=1 d=1 t=59
+zui zui 	最最	c=0 d=0.1 t=103
+zui zui zhong yao de shi 	最最重要的是	c=1 d=1 t=104

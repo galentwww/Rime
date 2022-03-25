@@ -1,0 +1,78 @@
+# 碼表各字段以製表符（Tab）分隔
+# 順序爲：文字+編碼+權重（決定重碼的次序、可選）,用tab键间隔
+
+Rime	rime	4
+鼠须管	rime	3
+https://rime.im/	rime	2
+Squirrel	rime	1
+>	dy	2
+≥	dy	1
+<	xy	2
+≤	xy	1
+App Store	as	2
+Apple Store	as	1
+AppleCare+	ac	1
+Apple ID	aid
+Apple Music	am	2
+AiMesh	am	1
+AirPods	ap	4
+Apple Pay	ap	3
+Alipay	ap	2
+Apple TV	atv
+Apple Watch	aw
+Android	az
+App Cleaner & Uninstaller	acu
+Chrome	ch	2
+Clubhouse	ch
+ClashX	cla
+CleanMyMac X	cmm	1
+Command	cm	1
+Control	ct	2
+CarPlay	cp	1
+Download	dl	1
+Emoji	bq
+Final Cut Pro	fcp
+gfwlist	gfw
+GitHub	git	2
+Gmail	gm
+Google	gg
+Google Voice	gv
+iCloud	ic
+iStat Menus	ism
+iMac	imac	2
+iMac Pro	imac	1	
+Keynote	kn
+koolshare	ks
+Evutec	kfl
+Lightning to USB-C	ltc
+Lightning to USB	ltu
+Mac	mac	2
+Mac mini	mac	1
+macOS	macos	2
+macOS BigSur	macos	1
+Markdown	md
+Microsoft	mic	2
+Microsoft Office	mic	1
+Netflix	nf	
+MacBook Pro	mbp
+MacBook Air	mba
+Messenger	ms
+㎡	pfm
+🐂️🍺️	nb	2
+OneDrive	od	1
+openwrt	ow
+OK	ok
+Option	ot
+Parallels Desktop	pd
+Photoshop	ps
+Paypal	pp
+Pro	pro
+QQ	qq
+Safari	sf	2
+Shift	sf	1
+Telegram	tg
+USB-C	usbc
+WeChat	wx	2
+Windows	win
+YouTube	ytb
+

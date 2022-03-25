@@ -1,0 +1,20 @@
+# Rime dictionary
+# encoding: utf-8
+# 个人中文词库-自定义
+
+---
+name: galentwww_zhHans.daily
+version: "2022.3.25"
+sort: by_weight
+use_preset_vocabulary: false
+...
+
+整点	zheng dian 1
+整不会了	zheng bu hui le 1
+就离谱	jiu li pu 1
+马了	ma le 1
+来点	lai dian 1
+啊这	a zhe 1
+整点有的没的  zheng dian you de mei de 1
+万一呢 wan yi ne 1
+真 Ne 啊你 zhen ne 1
